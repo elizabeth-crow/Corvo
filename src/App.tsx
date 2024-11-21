@@ -1,7 +1,7 @@
 //estilo
 import './App.css';
 
-//componentes
+//components
 import Header from './components/Header';
 import Skills from './components/Skills'
 
